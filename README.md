@@ -1,26 +1,7 @@
-### Bonjour tout le monde ! 👋
+## Hey there
+I'm Hippo (also known as Inposa or Itorasch)<br>
+I'm a Mulesoft dev at CGI 
 
-Je suis Inposa. (Hippolyte PECH IRL) 
+I do Java, Node & C# on Unity on my free time when i feel like it. 
 
-Sur mes propres projets perso je suis principalement dev sur du NodeJs et du C# sur Unity *(même si en ce moment ça semble compliqué d'être dev sur Unity...)*. 
-
-Côté dev pro je dev des api en Spring boot et sur la technologie Mulesoft. J'en ai également touché au dev d'api avec ExpressJS dans mes plus jeunes années.
-
-J'aime également bidouiller et m'amuser avec l'API de l'appli de discussion Discord pour créer des bot ou permettre certaines actions via Webhook.
-
-Pour finir, je maintiens les principaux pack de texture du serveur de jeu de rôle Herobrine.fr (serveur dont je fais partie de l'équipe d'administration et d'encadrement)
-
-<!--
-**Inposa/Inposa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At this moment i'm working on restoration of old consoles and begin to work again on an adaptation of triple triad on Unity 🃏.   
